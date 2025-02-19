@@ -1,2 +1,2 @@
 # seconde
-seconde repository
+seconde repositry
